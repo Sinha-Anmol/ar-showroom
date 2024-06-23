@@ -1,0 +1,25 @@
+/* App.css */
+.app {
+  text-align: center;
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.ar-viewer {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ccc;
+  margin: 20px auto;
+}
+
+.select-product {
+  margin: 20px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
